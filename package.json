@@ -1,0 +1,12 @@
+{
+  "name": "skautska-hra",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.x",
+    "react-dom": "18.x",
+    "react-router-dom": "6.x",
+    "firebase": "9.x",
+    "uuid": "9.x"
+  }
+}
